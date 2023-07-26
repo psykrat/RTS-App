@@ -1,0 +1,49 @@
+{
+    "Warcraft 3": {
+        "Human": {
+            "Build 1": [
+                "1. Build Peon",
+                "2. Build Base"
+            ],
+            "Build 2": [
+                "1. Build Base",
+                "2. Build Peon"
+            ],
+            "Build 3": [],
+            "Build 4": []
+        },
+        "Undead": {
+            "Fast Fiend": [
+                "5 - Send acolytes to gold, ghoul to wood, train 1 Acolyte.",
+                "6 - Immediately pull one of the three acolytes to build Crypt and Graveyard.",
+                "7 - At 200 gold build Altar of Darkness, 1st Ziggurat. Train 1st ghoul when Crypt finishes.",
+                "9 - Build race-specific shop (Tomb of Relics). Train Death Knight (DK) and 1st Crypt Fiend when Altar finishes.",
+                "17 - Build 2nd zig, train 2nd fiend",
+                "20 - DK spawns, buy Rod of Necromancy, summon two skeletons, then creep. Train 3rd fiend.",
+                "23 - Tech to Tier2 (Halls of the Dead), get Nerubian Tower, train 3rd ghoul.",
+                "25 - Buy a second Rod when you can. Build 3rd zig, then train 4th fiend and 4th ghoul.",
+                "30 - Tier2 finishes. Train Lich, build Slaughterhouse, then Temple of the Damned (optional). Research Burrow.",
+                "35 - Upgrade to Tier3 (Black Citadel). Buy Rod of Necromancy again with Lich spawns. Train 1st Obsidian Statue, 1st Banshee, build 4th zig.",
+                "40 - Train 2nd Statue, 2nd Banshee.",
+                "45 - Tier3 finishes, buy Orb of Corruption asap and put it on Lich. Train 3rd hero from Tavern, usually Dark Ranger or Pit Lord."
+            ],
+            "Ghoul": [
+                "5 - Send acolytes to gold, ghoul to wood, train 1 Acolyte.",
+                "6 - Immediately pull one of the three acolytes to build Altar of Darkness and Ziggurat. Train 1 Acolyte (5 total).",
+                "7 - At 200 gold build Crypt.",
+                "At 130 gold build Tomb of Relics, optionally build 6th Acolyte for scouting.",
+                "Continue building Ziggurats and Ghouls."
+            ],
+            "TeD Fiend": [
+                "5 - Send acolytes to gold, ghoul to wood, train 2 Acolytes.",
+                "6 - Immediately pull one of the three acolytes to build Altar of Darkness and Ziggurat.",
+                "7 - At 200 gold build Crypt.",
+                "7 - At 130 gold build Tomb of Relics.",
+                "12 - At 215 gold build Graveyard.",
+                "Optional Acolyte for scouting.",
+                "12/13 - Train 2 Ghouls for a total of 3.",
+                "16/17 - When hero spawns, buy Rod of Necromancy from Tomb of Relics."
+            ]
+        }
+    }
+}
